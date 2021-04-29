@@ -1,2 +1,2 @@
 # trendanime-visualize
-人気アニメ視覚化
+人気アニメ視覚化サイト
